@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) 2019, markodjordjic
+Copyright (c) 2019, Marko Djordjic
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
